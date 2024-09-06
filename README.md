@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Excel, Python, Lua, Docker, and C# projects including Fivem development and SPT-AKI.
+🔭 I’m currently working on Excel, Python, Lua, Docker, and C# projects including SPT-AKI.
 
 ![Solareon's GitHub stats](https://github-readme-stats.vercel.app/api?username=solareon&show_icons=true&theme=github_dark)
 
